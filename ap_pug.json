@@ -1,0 +1,756 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-123456789/1033173712",
+        "nativeid": "ca-app-pub-123456789/2247696110",
+        "openads":"ca-app-pub-123456789/1033173712",
+        "interval": 6,
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"#",
+        "fan_banner_native":"#",
+
+        "inmobi_inter":"#",
+        "inmobi_banner":"#",
+        "inmobi_id":"#",
+        
+        "startaap":"1234567890",
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+
+        }
+    ],
+
+"More":
+  [ 
+  {
+    "id":1,
+    "judul":"Mobile Legend Wallpapers 4K",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
+    "link":"https://appgallery.huawei.com/#/app/C102987745"
+  },
+  {
+    "id":2,
+    "judul":"Brawlhalla Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
+    "link":"https://appgallery.huawei.com/#/app/C102703635"
+  },
+  {
+    "id":3,
+    "judul":"Dragon Ball Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
+    "link":"https://appgallery.huawei.com/#/app/C102976603"
+  },
+  {
+    "id":4,
+    "judul":"Cute Ice Cream Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575731"
+  },
+  {
+    "id":5,
+    "judul":"Cute Panda Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575711"
+  },
+  {
+    "id":6,
+    "judul":"Cute BT21 Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575721"
+  },
+  {
+    "id":7,
+    "judul":"Cute Kawaii Bunny Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575733"
+  },
+  {
+    "id":8,
+    "judul":"Cute Gacha Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575745"
+  },
+  {
+    "id":9,
+    "judul":"Cute Hello Kitty Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/fa5da001636b4b7caab21d908390ab4c.png",
+    "link":"https://appgallery.huawei.com/#/app/C102984609"
+  },
+  {
+    "id":10,
+    "judul":"Among Us Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/891f12ce71a94fbab6e7869a52caae10.png",
+    "link":"https://appgallery.huawei.com/#/app/C102999935"
+  },
+  {
+    "id":11,
+    "judul":"Sticker Happy New Year 2021",
+    "image":"https://lh3.googleusercontent.com/VLSqowglMMqGguPNgvppQ8RairTr5gxaFkSKHzq8eq7LussCI6ErruBYJvt0glbJq9uZ=s360",
+    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.stickermemojihappynewyear2021wastickerapps"
+  },
+  {
+    "id":12,
+    "judul":"2021 Photo Frame New Year",
+    "image":"https://lh3.googleusercontent.com/nlW2IpeoKUpg2KmS7ldcaz4PjptwGIdU141PS6svz7weYqYcwM04ClJ3wlReM_ctXFUd=s360",
+    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.bingkaifototahunbaru2021happynewyear"
+  }
+  {
+    "id":13,
+    "judul":"Joker Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/4f169835a67742d792a61fc5139cff05.png",
+    "link":"https://appgallery.huawei.com/#/app/C103002635"
+  }
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "PUBG 1",
+      "gambar": "https://i.pinimg.com/564x/d7/9b/0a/d79b0af612b68136dffa8413d12eaf9f.jpg"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "PUBG 2",
+      "gambar": "https://i.pinimg.com/564x/bd/3b/67/bd3b67760989ce8931b3e470dcf60d48.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "PUBG 3",
+      "gambar": "https://i.pinimg.com/564x/41/f6/9e/41f69eaa8901a9a964639d083d3395b4.jpg"
+    
+    },
+	{
+      "id": 4,
+      "nama_cat": "PUBG 4",
+      "gambar": "https://i.pinimg.com/564x/80/0e/4b/800e4b134f69d5954a99b71951ccf468.jpg"
+     
+    },
+    {
+      "id": 5,
+      "nama_cat": "PUBG 5",
+      "gambar": "https://i.pinimg.com/564x/e7/0c/be/e70cbe567af6b0b7bd89cdd94d3adcfb.jpg"
+    
+    },
+    {
+      "id": 6,
+      "nama_cat": "PUBG 6",
+      "gambar": "https://i.pinimg.com/564x/84/63/5f/84635f13aab1518d1ca0560e26b502ef.jpg"
+    
+    },
+	{
+      "id": 7,
+      "nama_cat": "PUBG 7",
+      "gambar": "https://i.pinimg.com/564x/a0/cd/93/a0cd93fa0b982f2080bd670c5ab1fc8e.jpg"
+    
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 1",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/PUBG-Wallpaper-728x1536.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 2",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Wallpaper-PUBG-728x1536.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 3",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/PUBG-Wallpapers-728x1536.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 4",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-Wallpaper-Download-768x1365.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 5",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-Photos.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 6",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/HD-Pubg-Wallpaper-709x1536.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 7",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/HD-Wallpaper-of-Pubg-728x1536.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 8",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/HD-Wallpapers-of-Pubg-728x1536.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 9",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-Background-images.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "PUBG 1",
+      "judul":"AImage 10",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-Images-wallpaper.jpg"
+    },
+	{
+      "id":21,
+      "id_wall":"021",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 1",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/pubg-wallpaper-awm-728x1536.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"022",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 2",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/pubg-wallpaper-background-download-728x1536.jpg"
+    },
+    {
+      "id":23,
+      "id_wall":"023",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 3",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/pubg-wallpaper-4k-728x1536.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"024",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 4",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/pubg-wallpaper-season-10-728x1536.jpg"
+    },
+    {
+      "id":25,
+      "id_wall":"025",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 5",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Background-Pubg-728x1536.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"026",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 6",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-HD-Background-728x1536.jpg"
+    },
+	{
+      "id":27,
+      "id_wall":"027",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 7",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Backgrounds-Pubg-728x1536.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"028",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 8",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-iPhone-wallpaper-728x1536.jpg"
+    },
+    {
+      "id":29,
+      "id_wall":"029",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 9",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-android-Wallpaper-728x1536.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"030",
+      "nama_cat": "PUBG 2",
+      "judul":"BImage 10",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-2020-Wallpaper-1-728x1536.jpg"
+    },
+	{
+      "id":41,
+      "id_wall":"041",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 1",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-iPhone-wallpapers-728x1536.jpg"
+    },
+    {
+      "id":42,
+      "id_wall":"042",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 2",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-Mobile-Wallpaper-2020-728x1536.jpg"
+    },
+    {
+      "id":43,
+      "id_wall":"043",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 3",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Pubg-Mobile-Wallpaper-new-728x1536.jpg"
+    },
+    {
+      "id":44,
+      "id_wall":"044",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 4",
+      "image":"https://i.pinimg.com/564x/a3/ee/4c/a3ee4cdffbb969dc0bed14d266e21755.jpg"
+    },
+    {
+      "id":45,
+      "id_wall":"045",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 5",
+      "image":"https://i.pinimg.com/564x/94/af/dc/94afdc82fbab7ad1fd8cdbb87fef8a89.jpg"
+    },
+    {
+      "id":46,
+      "id_wall":"046",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 6",
+      "image":"https://i.pinimg.com/564x/54/a0/b2/54a0b2141dd4c5561852b7e4d4b8f457.jpg"
+    },
+	{
+      "id":47,
+      "id_wall":"047",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 7",
+      "image":"https://i.pinimg.com/564x/5c/aa/5b/5caa5bc220b554414b79b966dcdf959f.jpg"
+    },
+    {
+      "id":48,
+      "id_wall":"048",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 8",
+      "image":"https://i.pinimg.com/564x/f7/87/db/f787db55cca8f017a0474730d426668e.jpg"
+    },
+    {
+      "id":49,
+      "id_wall":"049",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 9",
+      "image":"https://i.pinimg.com/564x/28/3a/10/283a10e161fa447e851e7bf469fefe62.jpg"
+    },
+    {
+      "id":50,
+      "id_wall":"050",
+      "nama_cat": "PUBG 3",
+      "judul":"CImage 10",
+      "image":"https://i.pinimg.com/564x/e6/35/23/e6352375501d9530b81326d0c94db91d.jpg"
+    },
+	{
+      "id":61,
+      "id_wall":"061",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 1",
+      "image":"https://i.pinimg.com/564x/1d/92/87/1d9287a3ed984d8fa080fa24554c47e2.jpg"
+    },
+    {
+      "id":62,
+      "id_wall":"062",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 2",
+      "image":"https://i.pinimg.com/564x/e3/c1/5b/e3c15bb025099eac928438cd20fabc87.jpg"
+    },
+    {
+      "id":63,
+      "id_wall":"063",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 3",
+      "image":"https://www.mordeo.org/files/uploads/2020/09/PUBG-Mobile-Season-15-4K-Ultra-HD-Mobile-Wallpaper-scaled.jpg"
+    },
+    {
+      "id":64,
+      "id_wall":"064",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 4",
+      "image":"https://www.mordeo.org/files/uploads/2020/09/PUBG-Cowgirl-4K-Ultra-HD-Mobile-Wallpaper-scaled.jpg"
+    },
+    {
+      "id":65,
+      "id_wall":"065",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 5",
+      "image":"https://www.mordeo.org/files/uploads/2020/09/PUBG-Duo-Speed-Truck-4K-Ultra-HD-Mobile-Wallpaper-scaled.jpg"
+    },
+    {
+      "id":66,
+      "id_wall":"066",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 6",
+      "image":"https://www.mordeo.org/files/uploads/2020/09/PUBG-Cyborg-4K-Ultra-HD-Mobile-Wallpaper-scaled.jpg"
+    },
+	{
+      "id":67,
+      "id_wall":"067",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 7",
+      "image":"https://www.mordeo.org/files/uploads/2020/08/PUBG-Mobile-Mythology-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":68,
+      "id_wall":"068",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 8",
+      "image":"https://www.mordeo.org/files/uploads/2020/08/PUBG-Mobile-Agent-4K-Ultra-HD-Mobile-Wallpaper-scaled.jpg"
+    },
+    {
+      "id":69,
+      "id_wall":"069",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 9",
+      "image":"https://www.mordeo.org/files/uploads/2020/08/PUBG-Girl-Agent-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":70,
+      "id_wall":"070",
+      "nama_cat": "PUBG 4",
+      "judul":"DImage 10",
+      "image":"https://www.mordeo.org/files/uploads/2020/08/Butcher-of-Stalber-PUBG-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":81,
+      "id_wall":"081",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 1",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Season-8-Battle-Car-Explosions-4K-Ultra-HD-Mobile-Wallpaper-scaled.jpg"
+    },
+    {
+      "id":82,
+      "id_wall":"082",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 2",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Man-Running-Sanhok-Season-8-2020-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":83,
+      "id_wall":"083",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 3",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Girl-With-Sniper-Season-8-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":84,
+      "id_wall":"084",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 4",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/Sara-PUBG-Season-14-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":85,
+      "id_wall":"085",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 5",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Mobile-Season-14-2020-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":86,
+      "id_wall":"086",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 6",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Guy-Level-3-Helmet-Season-14-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":87,
+      "id_wall":"087",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 7",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Girl-Season-14-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":88,
+      "id_wall":"088",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 8",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Girl-Paint-Season-14-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":89,
+      "id_wall":"089",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 9",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/Jungle-Hunter-PUBG-Mobile-Season-14-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":90,
+      "id_wall":"090",
+      "nama_cat": "PUBG 5",
+      "judul":"EImage 10",
+      "image":"https://www.mordeo.org/files/uploads/2020/07/PUBG-Dawn-Hunter-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":101,
+      "id_wall":"101",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 1",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Silverback-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":102,
+      "id_wall":"102",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 2",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Season-7-Woody-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":103,
+      "id_wall":"103",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 3",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Season-7-Robotic-Skin-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":104,
+      "id_wall":"104",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 4",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Season-7-Magician-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":105,
+      "id_wall":"105",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 5",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/Girl-PUBG-Season-14-Poster-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":106,
+      "id_wall":"106",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 6",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Mobile-Season-7-Squad-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":107,
+      "id_wall":"107",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 7",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Continental-Series-2020-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":108,
+      "id_wall":"108",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 8",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/Mask-Man-PUBG-Mobile-Season-7-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":109,
+      "id_wall":"109",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 9",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Puppet-Agent-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":110,
+      "id_wall":"110",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 10",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Nebula-Hero-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":111,
+      "id_wall":"111",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 11",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Mystic-Legends-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":112,
+      "id_wall":"112",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 12",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Mother-Clucker-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":113,
+      "id_wall":"113",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 13",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Mobile-Season-13-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":114,
+      "id_wall":"114",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 14",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Metal-Storm-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+      {
+      "id":115,
+      "id_wall":"115",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 15",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/Cold-Front-PUBG-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":116,
+      "id_wall":"116",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 16",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Girl-Cat-Mask-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":117,
+      "id_wall":"117",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 17",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Sniper-Jungle-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":118,
+      "id_wall":"118",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 18",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Joker-Maskman-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+      {
+      "id":119,
+      "id_wall":"119",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 19",
+      "image":"https://www.mordeo.org/files/uploads/2020/06/PUBG-Girl-Silver-Dress-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":120,
+      "id_wall":"120",
+      "nama_cat": "PUBG 6",
+      "judul":"FImage 20",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Snow-Walker-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":121,
+      "id_wall":"121",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 1",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Girl-Snow-Skin-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":122,
+      "id_wall":"122",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 2",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Girl-Gun-Battle-Mad-Miramar-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":123,
+      "id_wall":"123",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 3",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Train-Battle-Explosion-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":124,
+      "id_wall":"124",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 4",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Helmet-Guy-Motorcycle-Mad-Miramar-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":125,
+      "id_wall":"125",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 5",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Helmet-Guy-Mad-Miramar-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":126,
+      "id_wall":"126",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 6",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Girl-Sniper-With-Squad-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":127,
+      "id_wall":"127",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 7",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Girl-Land-Loot-Survive-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":128,
+      "id_wall":"128",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 8",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Girl-Explosion-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":129,
+      "id_wall":"129",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 9",
+      "image":"https://www.mordeo.org/files/uploads/2020/02/PUBG-Girl-New-Skin-Holding-M4-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":130,
+      "id_wall":"130",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 10",
+      "image":"https://www.mordeo.org/files/uploads/2020/02/PUBG-Girl-Ready-With-Gun-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":131,
+      "id_wall":"131",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 11",
+      "image":"https://www.mordeo.org/files/uploads/2020/03/PUBG-Guy-Flare-Gun-Fire-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":132,
+      "id_wall":"132",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 12",
+      "image":"https://www.mordeo.org/files/uploads/2020/04/PUBG-Girl-Vikendi-Season-7-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+	{
+      "id":133,
+      "id_wall":"133",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 13",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/Golden-Mirado-PUBG-Mobile-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+    {
+      "id":134,
+      "id_wall":"134",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 14",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Skin-2020-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    },
+      {
+      "id":135,
+      "id_wall":"135",
+      "nama_cat": "PUBG 7",
+      "judul":"GImage 15",
+      "image":"https://www.mordeo.org/files/uploads/2020/05/PUBG-Girl-AKM-Sunset-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+    }
+
+  ]
+}

@@ -26,86 +26,169 @@
         }
     ],
 
-"More":
-  [ 
-  {
-    "id":1,
-    "judul":"Mobile Legend Wallpapers 4K",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
-    "link":"https://appgallery.huawei.com/#/app/C102987745"
-  },
-  {
-    "id":2,
-    "judul":"Brawlhalla Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
-    "link":"https://appgallery.huawei.com/#/app/C102703635"
-  },
-  {
-    "id":3,
-    "judul":"Dragon Ball Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
-    "link":"https://appgallery.huawei.com/#/app/C102976603"
-  },
-  {
-    "id":4,
-    "judul":"Cute Ice Cream Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575731"
-  },
-  {
-    "id":5,
-    "judul":"Cute Panda Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575711"
-  },
-  {
-    "id":6,
-    "judul":"Cute BT21 Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575721"
-  },
-  {
-    "id":7,
-    "judul":"Cute Kawaii Bunny Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575733"
-  },
-  {
-    "id":8,
-    "judul":"Cute Gacha Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575745"
-  },
-  {
-    "id":9,
-    "judul":"Cute Hello Kitty Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/fa5da001636b4b7caab21d908390ab4c.png",
-    "link":"https://appgallery.huawei.com/#/app/C102984609"
-  },
-  {
-    "id":10,
-    "judul":"Among Us Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/891f12ce71a94fbab6e7869a52caae10.png",
-    "link":"https://appgallery.huawei.com/#/app/C102999935"
-  },
-  {
-    "id":11,
-    "judul":"Sticker Happy New Year 2021",
-    "image":"https://lh3.googleusercontent.com/VLSqowglMMqGguPNgvppQ8RairTr5gxaFkSKHzq8eq7LussCI6ErruBYJvt0glbJq9uZ=s360",
-    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.stickermemojihappynewyear2021wastickerapps"
-  },
-  {
-    "id":12,
-    "judul":"2021 Photo Frame New Year",
-    "image":"https://lh3.googleusercontent.com/nlW2IpeoKUpg2KmS7ldcaz4PjptwGIdU141PS6svz7weYqYcwM04ClJ3wlReM_ctXFUd=s360",
-    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.bingkaifototahunbaru2021happynewyear"
-  },
-  {
-    "id":13,
-    "judul":"Joker Wallpapers HD",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/4f169835a67742d792a61fc5139cff05.png",
-    "link":"https://appgallery.huawei.com/#/app/C103002635"
-  }
+"More": [
+    {
+      "id": 1,
+      "judul": "Squid Game",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/34ad9b9c2c094bbe886c6af43dc83d01.png",
+      "link": "https://appgallery.huawei.com/#/app/C104798527"
+    },
+    {
+      "id": 26,
+      "judul": "Squid Game Series",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/671ede5aab61452cacd7d94853f9020e.png",
+      "link": "https://appgallery.huawei.com/#/app/C104839589"
+    },
+    {
+      "id": 27,
+      "judul": "The Baby In Yellow",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/238a7729e898433c93c70fdba9e59912.png",
+      "link": "https://appgallery.huawei.com/#/app/C104698959"
+    },
+    {
+      "id": 2,
+      "judul": "Pop It Fidget",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/da2b6151a8f24c4da97ac4125e088f92.png",
+      "link": "https://appgallery.huawei.com/#/app/C104583733"
+    },
+    {
+      "id": 3,
+      "judul": "Skin Among Us for Minecraft",
+      "image": "https://play-lh.googleusercontent.com/breYVybNXwBGnHbt4bgOdW41HLMk3MeTS0TpgUhKlTrhEUUvi0Fe453nFqinfXemtj0=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.zackywalkthrough.skinsamongusaddonmaps"
+    },
+    {
+      "id": 4,
+      "judul": "Cute Ice Cream Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575731"
+    },
+    {
+      "id": 5,
+      "judul": "Cute Panda Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575711"
+    },
+    {
+      "id": 6,
+      "judul": "Cute BT21 Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575721"
+    },
+    {
+      "id": 7,
+      "judul": "Cute Kawaii Bunny Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575733"
+    },
+    {
+      "id": 8,
+      "judul": "Cute Gacha Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575745"
+    },
+    {
+      "id": 9,
+      "judul": "Cute Hello Kitty Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/fa5da001636b4b7caab21d908390ab4c.png",
+      "link": "https://appgallery.huawei.com/#/app/C102984609"
+    },
+    {
+      "id": 10,
+      "judul": "Sausage Man",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/88285c879a5a40d2a39a8f35262e61c3.png",
+      "link": "https://appgallery.huawei.com/#/app/C104659249"
+    },
+    {
+      "id": 11,
+      "judul": "KonoSuba Fantastic",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/e5406704e172419bb53a795601afcf6c.png",
+      "link": "https://appgallery.huawei.com/#/app/C104659315"
+    },
+    {
+      "id": 12,
+      "judul": "Oddbods",
+      "image": "https://play-lh.googleusercontent.com/eP79EbUoNeeCpruveq9_mMUHCImLyEgS_hj0nXqXRp6QnlgE6IDP00zqNnDc80WHg6bo=s180-rw",
+      "link": "https://appgallery.huawei.com/#/app/C104683049"
+    },
+    {
+      "id": 13,
+      "judul": "4K Free Fire Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/cb676e8779be405da6fbd0aa33ac7d43.png",
+      "link": "https://appgallery.huawei.com/#/app/C103033961"
+    },
+    {
+      "id": 14,
+      "judul": "Fall Guys Wallpaper",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/6adaa1e7c7254f28a55d4121706eb12a.png",
+      "link": "https://appgallery.huawei.com/#/app/C103007475"
+    },
+    {
+      "id": 15,
+      "judul": "PUBG Wallpapers 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/044be08e6f0c4beda5d5fe1e292d1153.png",
+      "link": "https://appgallery.huawei.com/#/app/C103004863"
+    },
+    {
+      "id": 16,
+      "judul": "Joker Wallpapers 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/4f169835a67742d792a61fc5139cff05.png",
+      "link": "https://appgallery.huawei.com/#/app/C103002635"
+    },
+    {
+      "id": 17,
+      "judul": "Among Us Walkthrough",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/02a6c3fd893647398d65e66abbd4492f.png",
+      "link": "https://appgallery.huawei.com/#/app/C103047009"
+    },
+    {
+      "id": 18,
+      "judul": "Minecraft Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/960de4f625474f5fa45c073f297481e6.png",
+      "link": "https://appgallery.huawei.com/#/app/C103074619"
+    },
+    {
+      "id": 19,
+      "judul": "Subway Surfer Wallpaper",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/d5bae873ba504a49ae3196fb52b941c6.png",
+      "link": "https://appgallery.huawei.com/#/app/C103065297"
+    },
+    {
+      "id": 20,
+      "judul": "Sonic Wallpaper HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/65e92f717c4141e3a126404efe6fa12f.png",
+      "link": "https://appgallery.huawei.com/#/app/C103100369"
+    },
+    {
+      "id": 21,
+      "judul": "Dragon Ball Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
+      "link": "https://appgallery.huawei.com/#/app/C102976603"
+    },
+    {
+      "id": 22,
+      "judul": "Mobile Legend Wallpapers 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
+      "link": "https://appgallery.huawei.com/#/app/C102987745"
+    },
+    {
+      "id": 23,
+      "judul": "Brawlhalla Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
+      "link": "https://appgallery.huawei.com/#/app/C102703635"
+    },
+    {
+      "id": 24,
+      "judul": "Toca Life World",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/20f980ffc2884e44b5c4f0c2d137d813.png",
+      "link": "https://appgallery.huawei.com/#/app/C103858971"
+    },
+    {
+      "id": 25,
+      "judul": "Wallcraft – Wallpapers HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/e30e8af72e4242c5bfde33f700b8b17c.png",
+      "link": "https://appgallery.huawei.com/#/app/C104531011"
+    }
 
   ],
   
